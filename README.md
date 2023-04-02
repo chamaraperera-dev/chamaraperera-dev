@@ -5,7 +5,7 @@
 
 <p>I am a full stack developer and medical doctor based in Brisbane, Australia. With a passion for both medicine and technology, I have been able to combine my skills to create innovative solutions that can help people.
   
-I specialize in using the MERN (MongoDB, Express, React, Node.js) stack for web development, as well as HTML, CSS, JavaScript, TypeScript, Node.js, Express, MongoDB, and Mongoose. My expertise in these technologies allows me to create dynamic and efficient web applications that are user-friendly and accessible.
+I specialize in using the MERN (MongoDB, Express, React, Node.js) stack for web development, as well as HTML, CSS, JavaScript and TypeScript.My expertise in these technologies allows me to create dynamic and efficient web applications that are user-friendly and accessible.
   
 As a medical doctor, I have a deep understanding of how technology can improve the healthcare industry. I am always looking for ways to incorporate technology into healthcare to improve patient outcomes and make medical care more accessible to everyone.
   
