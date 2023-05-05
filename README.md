@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from Brisbane, Australia.</h3>
 &nbsp;
 
-<p>I am a full stack developer and medical doctor based in Brisbane, Australia. With a passion for both medicine and technology, I have been able to combine my skills to create innovative solutions that can help people.
+<p>I am a full stack developer and a medical doctor based in Brisbane, Australia. With a passion for both medicine and technology, I have been able to combine my skills to create innovative solutions that can help people.
   
 I specialize in using the MERN (MongoDB, Express, React, Node.js) stack for web development, as well as HTML, CSS, JavaScript and TypeScript. My expertise in these technologies allows me to create dynamic and efficient web applications that are user-friendly and accessible.
   
